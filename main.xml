@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+     <Say voice="woman">Thanks for calling geek zone!</Say>
+
+    <Dial callerId="+443000300030">
+    <Number>
+      +447952142629
+    </Number>
+    <Number>
+      +447533665567
+    </Number>
+  </Dial>
+</Response>
+
